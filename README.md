@@ -12,7 +12,7 @@ A collection of projects building on the Aptos Blockchain.
 - [Anchorage Digital](https://www.anchorage.com/)
 - [Blockosaurus](https://www.blockorus.com/)
 - [BNB Chain](https://www.bnbchain.world/en)
-- [Cpinbase](https://www.coinbase.com/)
+- [Coinbase](https://www.coinbase.com/)
 - [Livepeer](https://livepeer.org/)
 - [Mooonclave](https://moonclave.com/)
 - [Paymagic](https://www.paymagic.xyz/)
