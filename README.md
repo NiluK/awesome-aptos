@@ -4,7 +4,7 @@ A collection of projects building on the Aptos Blockchain.
 
 ## Tutorials
 
-- [Official Developer Documentatipn](https://aptos.dev/)
+- [Official Developer Documentation](https://aptos.dev/)
 - [The Move Language Book](https://move-book.com/)
 
 ## People currently building on Aptos
