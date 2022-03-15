@@ -21,4 +21,4 @@ A collection of projects building on the Aptos Blockchain.
 - [Streaming Fast](https://streamingfast.io/) 
 
 
-Want to add your project? Open an PR!
+Want to add your project? Feel Free to add a PR
