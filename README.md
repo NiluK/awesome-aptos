@@ -18,7 +18,7 @@ A collection of projects building on the Aptos Blockchain.
 - [Paymagic](https://www.paymagic.xyz/)
 - [Paxos](https://paxos.com/)
 - [Rarible](https://rarible.com/)
-- Streaming Fast(https://streamingfast.io/) 
+- [Streaming Fast](https://streamingfast.io/) 
 
 
 Want to add your project? Open an PR!
