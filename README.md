@@ -9,7 +9,7 @@ A collection of projects building on the Aptos Blockchain.
 - [Official Developer Documentation](https://aptos.dev/)
 - [The Move Language Book](https://move-book.com/)
 - [Aptos Tutorial Episode 0: Baseline](https://mirror.xyz/magnum6.eth/V1_HOcpDkjvpRuCY_UacOGVkBJjTS_zRDBkGGIUUoUA)
-- [Aptos Tutorial Episode 1: Create Things)(https://mirror.xyz/magnum6.eth/kgZUk_kXg81AYQs5N5RygpjoK0OqAiH7TWRikznLcjg)
+- [Aptos Tutorial Episode 1: Create Things] (https://mirror.xyz/magnum6.eth/kgZUk_kXg81AYQs5N5RygpjoK0OqAiH7TWRikznLcjg)
 
 [RU]
 
