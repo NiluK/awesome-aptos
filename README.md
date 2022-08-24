@@ -31,6 +31,7 @@ A collection of projects building on the Aptos Blockchain.
 - [Blockosaurus](https://www.blockorus.com/)
 - [BNB Chain](https://www.bnbchain.world/en)
 - [Coinbase](https://www.coinbase.com/)
+- [Laminar Markets](https://laminar.markets/)
 - [Livepeer](https://livepeer.org/)
 - [Mooonclave](https://moonclave.com/)
 - [Paymagic](https://www.paymagic.xyz/)
