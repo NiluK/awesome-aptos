@@ -8,6 +8,7 @@ A collection of projects building on the Aptos Blockchain.
 
 - [Official Developer Documentation](https://aptos.dev/)
 - [The Move Language Book](https://move-book.com/)
+- [The Move Book](https://move-language.github.io/move/)
 - [Aptos Tutorial Episode 0: Baseline](https://mirror.xyz/magnum6.eth/V1_HOcpDkjvpRuCY_UacOGVkBJjTS_zRDBkGGIUUoUA)
 - [Aptos Tutorial Episode 1: Create Things](https://mirror.xyz/magnum6.eth/kgZUk_kXg81AYQs5N5RygpjoK0OqAiH7TWRikznLcjg)
 - [Aptos Tutorial Episode 2: Sell Things](https://medium.com/code-community-command/were-picking-up-where-we-left-off-at-the-last-episode-so-if-this-is-your-first-time-here-check-394ddb8950f0)
@@ -37,7 +38,8 @@ A collection of projects building on the Aptos Blockchain.
 - [Paymagic](https://www.paymagic.xyz/)
 - [Paxos](https://paxos.com/)
 - [Rarible](https://rarible.com/)
-- [Streaming Fast](https://streamingfast.io/) 
+- [Streaming Fast](https://streamingfast.io/)
+- [Ticketland](https://ticketland.io/)
 
 
 Want to add your project? Feel Free to add a PR
